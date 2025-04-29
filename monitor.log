@@ -1,0 +1,46 @@
+2025-04-29 14:06:18,651 INFO s.MonitorServer [main] 服务器启动，监听端口：8080
+2025-04-29 14:06:22,376 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"11.40%","memoryUsage":"40.94%","memoryAvailable":"18.85 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:06:31,275 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"7.30%","memoryUsage":"40.87%","memoryAvailable":"18.87 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:06:41,245 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.96%","memoryUsage":"40.85%","memoryAvailable":"18.87 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:06:51,260 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.11%","memoryUsage":"40.81%","memoryAvailable":"18.89 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:07:01,256 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"5.92%","memoryUsage":"40.82%","memoryAvailable":"18.88 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:07:39,564 INFO s.MonitorServer [main] 服务器启动，监听端口：8080
+2025-04-29 14:07:44,298 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"10.06%","memoryUsage":"40.72%","memoryAvailable":"18.91 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:07:53,178 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"14.79%","memoryUsage":"40.81%","memoryAvailable":"18.89 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:03,166 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.72%","memoryUsage":"40.90%","memoryAvailable":"18.86 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:13,158 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"15.01%","memoryUsage":"40.88%","memoryAvailable":"18.87 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:23,156 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"7.06%","memoryUsage":"40.89%","memoryAvailable":"18.86 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:33,142 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"11.50%","memoryUsage":"40.98%","memoryAvailable":"18.83 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:43,158 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.75%","memoryUsage":"40.84%","memoryAvailable":"18.88 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:08:53,161 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"5.79%","memoryUsage":"40.94%","memoryAvailable":"18.84 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:03,158 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.20%","memoryUsage":"40.96%","memoryAvailable":"18.84 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:13,167 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.95%","memoryUsage":"40.96%","memoryAvailable":"18.84 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:23,157 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"9.75%","memoryUsage":"40.91%","memoryAvailable":"18.86 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:33,164 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"9.62%","memoryUsage":"41.06%","memoryAvailable":"18.81 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:43,149 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.32%","memoryUsage":"41.10%","memoryAvailable":"18.79 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:09:53,170 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"7.57%","memoryUsage":"40.86%","memoryAvailable":"18.87 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:10:03,158 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"7.97%","memoryUsage":"40.78%","memoryAvailable":"18.90 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:10:13,158 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"10.39%","memoryUsage":"40.87%","memoryAvailable":"18.87 GB","memoryTotal":"31.91 GB"}
+2025-04-29 14:10:23,153 INFO s.MonitorServer [pool-2-thread-1] 来自 [127.0.0.1 (127.0.0.1)] 的数据:
+{"cpuUsage":"8.06%","memoryUsage":"40.90%","memoryAvailable":"18.86 GB","memoryTotal":"31.91 GB"}
